@@ -118,6 +118,8 @@ For all of Profe Kim's classes, the class servers will be organized the same. On
 **Created by:** Nathaniel Graham \<nathaniel.graham114@gmail.com>  
 **Last modified on:** Sep 06 2020  
 **Last modified by:** Nathaniel Graham \<nathaniel.graham114@gmail.com>  
+**Note:** You may be viewing an outdated version of this document. To guarantee that you've viewing the most recent version, please read or download from the [Github Repo][2]  
 
 [0]: https://discord.com/
 [1]: https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord
+[2]: https://github.com/ngraham20/WU-discord
