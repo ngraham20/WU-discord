@@ -1,10 +1,10 @@
 # Discord
-![Discord](Discord-Logo+Wordmark-Color)
+![Discord](https://discord.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png)
 
 ## What is Discord?
 Discord is a software that was built for gamers. Its original purpose was to make it easier for large groups of people to effectively communicate with each other as easily as possible. Think about the size of some World of Warcraft guilds and how big some of the boss raids are. That number is higher than any class you've been in at Whitworth. Because of this, Discord is a perfect choice to allow effective communication between you, your classmates, and your teachers.  
 
-**Important Note:** This document will only cover the absolute basics on what Discord is and how to use it. If you like what you see and want a more detailed explaination, check out Discord's [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord). This covers a *huge* amount of information, including how to change your sound and video settings for if things go wrong on your end and even how permissions work so you understand why you can't see everything your professors and TAs can see.  
+**Important Note:** This document will only cover the absolute basics on what Discord is and how to use it. If you like what you see and want a more detailed explaination, check out Discord's [Beginner's Guide to Discord][1]. This covers a *huge* amount of information, including how to change your sound and video settings for if things go wrong on your end and even how permissions work so you understand why you can't see everything your professors and TAs can see.  
 
 ## Installing
 Installing Discord doesn't need to be a hastle, but there are a couple things to keep in mind in order for class to run smoothly.  
